@@ -1,0 +1,5 @@
+{
+  "DISMOCK_BOT_TOKEN": "Token of the testing bot",
+  "TESTED_BOT_TOKEN": "Token of the tested bot",
+  "TESTED_BOT_NAME": "Name of the tested bot"
+}

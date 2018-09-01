@@ -16,3 +16,5 @@
 
 # nano swap files
 *.swp
+.idea/
+config.json
