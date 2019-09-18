@@ -8,7 +8,7 @@ from dismock import say, TestResult
 logger = logging.getLogger(__name__)
 
 
-class Core:
+class Core(commands.Cog):
 
     def __init__(self, bot):
         self.bot = bot
